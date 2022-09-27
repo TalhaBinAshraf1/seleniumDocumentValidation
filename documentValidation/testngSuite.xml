@@ -1,0 +1,15 @@
+
+<suite name = "Regression" verbose="1">
+    <test name = "UITest">
+        <classes>
+
+            <class name ="com.saucedemo.swaglabs.testCases.UserAbleToClickOnCreateNewAccount">
+                <methods>
+                    <exclude name="userAbleToClickOnCreateNewAccount" />
+                </methods>
+            </class>
+
+
+        </classes>
+    </test>
+</suite>
